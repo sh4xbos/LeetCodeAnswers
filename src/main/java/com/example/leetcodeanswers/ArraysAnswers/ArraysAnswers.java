@@ -1,8 +1,12 @@
-package com.example.leetcodeanswers.Arrays;
+package com.example.leetcodeanswers.ArraysAnswers;
 
 import java.util.Arrays;
 
-public class Solution {
+import java.util.Arrays;
+
+public class ArraysAnswers {
+
+
     public static void main(String[] args) {
         char[][] board = new char[3][3];
         for (int i = 0; i < 3; i++) {
@@ -130,3 +134,4 @@ Solution 👇👇👇👇*/
 //new chnages 12 and someyhaodiajdsajdadj
     }
 }
+
